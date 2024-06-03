@@ -17,7 +17,7 @@ transformers
 ```
 
 Also required is https://github.com/shtoshni/fast-coref.
-Clone and place in the sample folder as the .py files.
+Clone to the same folder as the python files.
 
 Before use, edit fast_coref/src/inference/model_inference.py:
 
