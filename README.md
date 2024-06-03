@@ -1,6 +1,6 @@
 Tools to perform reference-based document translation evaluation.
 
-To evaluate a sangle translation against a reference:
+To evaluate a single translation against a reference:
 ```
 python3 evaluateSample.py --reference reference.txt --hypothesis hypothesis.txt
 ```
