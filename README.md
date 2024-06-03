@@ -6,6 +6,7 @@ python3 evaluateSample.py --reference reference.txt --hypothesis hypothesis.txt
 ```
 
 Required packages:
+```
 https://github.com/urchade/GLiNER
 nltk
 tqdm
@@ -13,6 +14,7 @@ spacy
 unidecode
 torch
 transformers
+```
 
 Also required is https://github.com/shtoshni/fast-coref.
 Clone and place in the sample folder as the .py files.
