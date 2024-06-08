@@ -16,7 +16,7 @@ torch
 transformers
 ```
 
-Also required is https://github.com/shtoshni/fast-coref.
+Also required is https://github.com/shtoshni/fast-coref (rename to fast_coref).
 Clone and setup according to the instructions in the repo's readme (make sure to download the models). Place the 'fast_coref' and 'models' folders in the same directory as the python files.
 
 Before use, edit fast_coref/src/inference/model_inference.py:
